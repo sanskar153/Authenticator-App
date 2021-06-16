@@ -1,0 +1,28 @@
+{
+    "name": "AuthApp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "sanskar Agrawalla",
+    "license": "ISC",
+    "dependencies": {
+        "async": "^3.2.0",
+        "body-parser": "^1.19.0",
+        "connect-flash": "^0.1.1",
+        "crypto": "^1.0.1",
+        "dotenv": "^8.6.0",
+        "ejs": "^3.0.1",
+        "express": "^4.17.1",
+        "express-session": "^1.17.2",
+        "mongoose": "^5.12.14",
+        "nodemailer": "^6.6.1",
+        "passport": "^0.4.1",
+        "passport-local": "^1.0.0",
+        "passport-local-mongoose": "^6.0.1",
+        "path": "^0.12.7"
+    }
+}
