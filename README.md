@@ -7,7 +7,7 @@ There also an option for forgot password for which you got a link to reset your 
  
  [CLICK HERE](https://dry-peak-70194.herokuapp.com/login)
  
- # want to deploy...
+ # want to install...
 
 Just add the pacakages and change the config.env file<br>
 
